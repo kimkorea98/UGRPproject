@@ -1,0 +1,63 @@
+C:\Users\JBR\Source\Repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\JBR\Source\Repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\JBR\Source\Repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\JBR\Source\Repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\JBR\Source\Repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\JBR\Source\Repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\JBR\Source\Repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\JBR\Source\Repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\JBR\Source\Repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\JBR\Source\Repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\JBR\Source\Repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\bin\Debug\IronPython.dll
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\bin\Debug\IronPython.Modules.dll
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\bin\Debug\IronPython.SQLite.dll
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\bin\Debug\IronPython.Wpf.dll
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\bin\Debug\Microsoft.Scripting.dll
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\bin\Debug\IronPython.xml
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\bin\Debug\IronPython.Modules.xml
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\bin\Debug\IronPython.SQLite.xml
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\bin\Debug\IronPython.Wpf.xml
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\bin\Debug\Microsoft.Scripting.xml
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\JBR\Source\Repos\통합개발환경\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\bin\Debug\IronPython.dll
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\bin\Debug\IronPython.Modules.dll
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\bin\Debug\IronPython.SQLite.dll
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\bin\Debug\IronPython.Wpf.dll
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\bin\Debug\Microsoft.Scripting.dll
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\bin\Debug\IronPython.xml
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\bin\Debug\IronPython.Modules.xml
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\bin\Debug\IronPython.SQLite.xml
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\bin\Debug\IronPython.Wpf.xml
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\bin\Debug\Microsoft.Scripting.xml
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\kastr\OneDrive\바탕 화면\통합개발환경\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
